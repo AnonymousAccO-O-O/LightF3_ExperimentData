@@ -9,18 +9,18 @@ The data for our experiments is organized here.
 ```
 |─ License
 |─ Readme.md
-|─ bcar									    // verifier
+|─ bcar								// verifier
 |─ fcar
-	|── fcar-Alice						    // Verifier-Station
+	|── fcar-Alice						// Verifier-Station
 		|──  Alice-00001.log				// CAR log
 		└──  Alice-00001.res				// CAR result
 |─ ic3-ref 
 	|── ic3-ref-Alice						  
-		└──res							   // IC3-ref result
+		└──res						// IC3-ref result
 |─ iimc-bmc
 |─ iimc-ic3
 	|── iimc-ic3-Alice						
-		|── Alice-00001						// iimc-ic3
+		|── Alice-00001					// iimc-ic3
 		|── ...
 ```
 
